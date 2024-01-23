@@ -1,5 +1,5 @@
 ### Hi there 👋
-This site is under developing
+I'm Koushik Romel
 
 [Follow me on LinkedIn](https://www.linkedin.com/in/koushikromel/)
 <!--
